@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/dotnet-heroku-demo-app.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/dotnet-heroku-demo-app)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/dotnet-heroku-demo-app/tree/main.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/dotnet-heroku-demo-app)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
