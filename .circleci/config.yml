@@ -4,7 +4,7 @@ orbs:
   windows: circleci/windows@2.4.1
 jobs:
   build:
-    description: Build application with Release configuration
+    description: Build application with Release config
     executor:
       name: windows/default
     steps:
