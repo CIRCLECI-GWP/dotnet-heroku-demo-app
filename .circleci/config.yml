@@ -3,7 +3,7 @@ orbs:
   heroku: circleci/heroku@1.2.6
   windows: circleci/windows@2.4.1
 jobs:
-  build:
+  build: 
     description: Build application with Release configuration
     executor:
       name: windows/default
